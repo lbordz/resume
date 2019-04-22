@@ -1,2 +1,4 @@
 # resume
-Data Scientist Resume - Lori Bordzuk
+My Resume
+
+Lori Bordzuk, Data Scientist
